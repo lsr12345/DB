@@ -33,7 +33,7 @@ tf.config.experimental.set_memory_growth(physical_devices[0], True)
 # In[ ]:
 
 
-lr = 0.001
+lr = 0.01
 Epochs = 4
 finetune = False
 
